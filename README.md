@@ -25,7 +25,7 @@ This repository contains a portfolio website project featuring a login page and 
 * Portfolio Page: .
   * Self-description: A section where I introduces myself, my interests, and passions.
   * Biography: Details of My background.
-  * Contact Information: A section where users can reach out to Lyvia for collaborations or job opportunities.
+  * Contact Information: A section where users can reach out to Me for collaborations or job opportunities.
 
  ---
  
@@ -34,7 +34,8 @@ To access the login.php page, use the following credentials:
 
 - **Username: admin**
 - **Password: 12345**
-Once logged in, users can view the portfolio page, which contains Lyvia’s professional details and contact information.
+
+Once logged in, users can view the portfolio page, which contains My professional details and contact information.
 
 ---
 
