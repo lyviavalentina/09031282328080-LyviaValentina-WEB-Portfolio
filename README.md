@@ -4,6 +4,19 @@ This repository contains a portfolio website project featuring a login page and 
 
 ---
 
+## Folder Structure
+```
+│
+├── login.php               # Login page
+├── portfolio.php          # Portfolio page, displaying Lyvia's skills and background
+│
+├── assets/                 # Folder for all static files (images, styles, etc.)
+│   ├── images/             # Folder for images (profile pics, project images, etc.)
+│   │   └── profile.jpg     # Example image
+│       └── project1.png    # Example project image
+└── README.md               # This README file
+```
+
 ## Features
 * Login Page: Allows users to log in and access personalized content.
 * Portfolio Page: .
@@ -39,5 +52,5 @@ git clone https://github.com/lyviavalentina/09031282328080-LyviaValentina-WEB-Po
 ```
 cd 09031282328080-LyviaValentina-WEB-Portfolio
 ```
-Open the ```login.php``` file in your browser.
+3. Open the ```login.php``` file in your browser.
 
