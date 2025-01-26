@@ -7,19 +7,18 @@ This repository contains a portfolio website project featuring a login page and 
 ## Folder Structure
 ```
 │
-├── login.php                                                # Login page
-├── portfolio.php                                            # Portfolio page, displaying Lyvia's skills and background
-│
-├── assets/                                                  # Folder for all static files (images, styles, documents, etc.)
-│   ├── Lyvia Valentina-CV.pdf                               # Resume/CV document of Lyvia Valentina (PDF format)
-│   ├── Penjelasan Output_09031282328080_Lyvia Valentina.pdf # A document explaining the output or project results (PDF format)
-│   ├── SweetSansProHeavy.otf                                # Custom font file (SweetSansProHeavy) used for typography on the website.
-│   ├── avenir-next-light.ttf                                # Custom font file (Avenir Next Light) used for typography on the website.
-│   ├── bg.jpg                                               # Background image used in the login page.
-│   └── lyvia.jpg                                            # Profile image of Lyvia, typically used in the "intro" section in portfolio page.
-│
-└── README.md                                                # This README file
+├── login.php                                            # Login page
+├── portfolio.php                                        # Portfolio page, displaying Lyvia's skills and background
+├── Lyvia Valentina-CV.pdf                               # Resume/CV document of Lyvia Valentina (PDF format)
+├── Penjelasan Output_09031282328080_Lyvia Valentina.pdf # A document explaining the output or project results (PDF format)
+├── SweetSansProHeavy.otf                                # Custom font file (SweetSansProHeavy) used for typography on the website.
+├── avenir-next-light.ttf                                # Custom font file (Avenir Next Light) used for typography on the website.
+├── bg.jpg                                               # Background image used in the login page.
+├── lyvia.jpg                                            # Profile image of Lyvia, typically used in the "intro" section in portfolio page.
+└── README.md                                            # This README file
 ```
+
+---
 
 ## Features
 * Login Page: Allows users to log in and access personalized content.
