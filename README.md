@@ -7,14 +7,18 @@ This repository contains a portfolio website project featuring a login page and 
 ## Folder Structure
 ```
 │
-├── login.php               # Login page
-├── portfolio.php          # Portfolio page, displaying Lyvia's skills and background
+├── login.php                                               # Login page
+├── portfolio.php                                           # Portfolio page, displaying Lyvia's skills and background
 │
-├── assets/                 # Folder for all static files (images, styles, etc.)
-│   ├── images/             # Folder for images (profile pics, project images, etc.)
-│   │   └── profile.jpg     # Example image
-│       └── project1.png    # Example project image
-└── README.md               # This README file
+├── assets/                                                 # Folder for all static files (images, styles, documents, etc.)
+│   ├── Lyvia Valentina-CV.pdf                              # Folder for images (profile pics, project images, etc.)
+│   ├── Penjelasan Output_09031282328080_Lyvia Valentina    # Folder for images (profile pics, project images, etc.)
+│   ├── SweetSansProHeavy.otf                               # Folder for images (profile pics, project images, etc.)
+│   ├── avenir-next-light.ttf                               # Folder for images (profile pics, project images, etc.)
+│   ├── bg.jpg                                              # Folder for images (profile pics, project images, etc.)
+│   └── lyvia.jpg                                           # Folder for images (profile pics, project images, etc.)
+│
+└── README.md                                               # This README file
 ```
 
 ## Features
