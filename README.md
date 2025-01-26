@@ -6,7 +6,7 @@ This repository contains a portfolio website project featuring a login page and 
 
 ## Folder Structure
 ```
-│
+09031282328080-Lyvia Valentina-WEB-Portofolio/
 ├── login.php                                            # Login page
 ├── portfolio.php                                        # Portfolio page, displaying Lyvia's skills and background
 ├── Lyvia Valentina-CV.pdf                               # Resume/CV document of Lyvia Valentina (PDF format)
@@ -32,8 +32,8 @@ This repository contains a portfolio website project featuring a login page and 
 ## Accessing the Login Page
 To access the login.php page, use the following credentials:
 
-Username: admin
-Password: 12345
+- **Username: admin**
+- **Password: 12345**
 Once logged in, users can view the portfolio page, which contains Lyvia’s professional details and contact information.
 
 ---
