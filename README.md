@@ -28,3 +28,16 @@ Once logged in, users can view the portfolio page, which contains Lyvia’s prof
 * JavaScript
 * PHP
 ---
+
+## Installation
+To run this project locally, follow these steps:
+1. Clone this repository:
+```
+git clone https://github.com/lyviavalentina/09031282328080-LyviaValentina-WEB-Portfolio.git
+```
+2. Navigate to the project directory
+```
+cd 09031282328080-LyviaValentina-WEB-Portfolio
+```
+Open the ```login.php``` file in your browser.
+
